@@ -27,7 +27,7 @@ Different Python and Javascript frameworks.
 | ------------- |-------------| ----------| ----------|
 | Demit SB      | https://github.com/rashdogg74/Demit-SB | https://demit-sb.herokuapp.com/ | A full-stack e-commerce project built using Django, Python, HTML, CSS, and JavaScript with Stripe payments integration |
 | The Newsbox      | https://github.com/rashdogg74/newsbox86 | https://thenewsbox74.herokuapp.com/ | A full-stack blog project built using Django, Python, HTML, CSS, and JavaScript |
-| Dale Watts      | https://github.com/rashdogg74/-dale-watts- | n/a site not currently being hosted | a full-stack web quiz, with API integration and spotify streaming built using Python, HTML, CSS, and JavaScript |
+| Dale Watts      | https://github.com/rashdogg74/-dale-watts- | n/a site not currently being hosted | A full-stack web quiz, with API integration and spotify streaming built using Python, HTML, CSS, and JavaScript |
 
 ### 📫 How to reach me ...
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
