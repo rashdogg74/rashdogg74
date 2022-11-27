@@ -18,9 +18,7 @@ B.Sc in Physical Education, Munster Technological University, Ireland.
 Cohort Facilitator for codeinstitute.com
 
 ### 🌱 I’m currently learning ...
-Even more Python and Javascript to augment what I previously studied through small projects and web apps.
-Database manipulation.
-Different Python and Javascript frameworks.
+React and the Django Rest Framework 🤓
 
 ### 📂 Recent portfolio projects ...
 | Project       | Repository    | Live Site  | Description  |
